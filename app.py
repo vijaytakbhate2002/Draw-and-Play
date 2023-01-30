@@ -35,16 +35,16 @@ st.markdown("""
 </style>""",unsafe_allow_html=True)
 
 songs = {
-  0:"Musics//Dil Galti Kar Baitha Hai(PagalWorld.com.se).mp3",
-  1:"Musics//Hara Hara Shambhu(PagalWorld.com.se).mp3",
-  2:"Musics//Hum Nashe Mein Toh Nahin(PagalWorld.com.se).mp3",
-  3:"Musics//Kesariya(PagalWorld.com.se).mp3",
-  4:"Musics//Maine Tera Naam Dil Rakh Diya(PagalWorld.com.se).mp3",
-  5:"Musics//Mehbooba Main Teri Mehbooba (KGF Chapter 2)(PagalWorld.com.se).mp3",
-  6:"Musics//Oh Humnasheen Yasser Desai 320 Kbps.mp3",
-  7:"Musics//Saami Saami(PagalWorld.com.se).mp3",
-  8:"Musics//Shiv Tandav Stotram.mp3",
-  9:"Musics//Teri Mitti (mp3download.minewap.com).mp3"
+  0:"Dil Galti Kar Baitha Hai(PagalWorld.com.se).mp3",
+  1:"Hara Hara Shambhu(PagalWorld.com.se).mp3",
+  2:"Hum Nashe Mein Toh Nahin(PagalWorld.com.se).mp3",
+  3:"Kesariya(PagalWorld.com.se).mp3",
+  4:"Maine Tera Naam Dil Rakh Diya(PagalWorld.com.se).mp3",
+  5:"Mehbooba Main Teri Mehbooba (KGF Chapter 2)(PagalWorld.com.se).mp3",
+  6:"Oh Humnasheen Yasser Desai 320 Kbps.mp3",
+  7:"Saami Saami(PagalWorld.com.se).mp3",
+  8:"Shiv Tandav Stotram.mp3",
+  9:"Teri Mitti (mp3download.minewap.com).mp3"
 }
 
 # sidebar
