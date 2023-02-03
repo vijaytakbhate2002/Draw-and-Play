@@ -69,7 +69,7 @@ canvas_result = st_canvas(
 if canvas_result.image_data is not None: 
   image1 = canvas_result.image_data.astype('uint8')
   image1 = cv2.cvtColor(image1,cv2.COLOR_BGR2GRAY)
-  if True:
+  if image1.max() > 200:
     image1 = cv2.resize(image1,(28,28))
     st.sidebar.image(image1,width=100)
     image1 = np.reshape(image1,(1,28,28,1))/255
